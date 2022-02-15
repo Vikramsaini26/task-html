@@ -1,0 +1,30 @@
+
+.search{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+
+}
+
+
+.select{
+  width: 90%;
+  padding: 16px 20px;
+  border-radius: 14px;
+  background-color: aliceblue;
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+
+    
+    
+}
+
+.submit{
+    background-color: red;
+    border-radius: 10px;
+    color: aliceblue;
+    size: 10px;
+  
+}
