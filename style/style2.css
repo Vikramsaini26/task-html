@@ -1,0 +1,57 @@
+.upper{
+    display: flex;
+    justify-content: center;
+    place-content: space-between;
+    background-color: thistle;
+
+
+}
+.item{
+  
+}
+
+.navbar{
+    display: inline;
+}
+
+li {
+    display: inline;
+  }
+
+  li a {
+    color: black;
+    padding: 14px 16px;
+  }
+  li a:hover {
+    background-color: grey;
+  }
+  .search{
+    box-sizing: border-box; 
+    margin-top: 10px;
+  }
+
+  .form{
+      background-color: antiquewhite;
+      text-align: center;
+      padding-top: 60px;
+      padding-left: 50px;
+      padding-right: 50px;
+      
+      
+    }
+  
+  
+
+  .both{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 40px;
+    
+    
+    
+}
+.footer{
+  background-color: blueviolet;
+  padding: 40px 0px 40px 0px;
+  text-align: center;
+}
